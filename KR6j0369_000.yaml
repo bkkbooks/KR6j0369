@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0369/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 修習般若波羅蜜菩薩觀行念誦儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1151.xml
+    old_id: T20n1151
+hash: sha256:0f6bb8372202238305879624b41155da86aa32de036a2c4c8ebf126028c549b5

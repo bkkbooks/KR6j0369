@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR6j0369/v1
+canonical_location: https://kanripo.org/bkk/KR6j0369/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 修習般若波羅蜜菩薩觀行念誦儀軌
+  identifiers:
+    alt_id:
+    - T20n1151
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1151.xml
+    old_id: T20n1151
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0369_000.yaml, hash: 'sha256:0f6bb8372202238305879624b41155da86aa32de036a2c4c8ebf126028c549b5'}
+  - {seq: 1, filename: KR6j0369_001.yaml, hash: 'sha256:a398f1944453d5a4c4786821cc53f7aab03f7c673da433e2fcbb5cdf027af6a7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0369_001.markers.yaml, hash: 'sha256:777039d358c35af831cd043c9fe4d5b5189aec04db99bbaf4717482ef6bcaa8b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0369_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3545
+  label: '修習般若波羅蜜菩薩觀行念誦
+
+    儀軌一卷'
+  type: juan
+  level: 1
+hash: sha256:5b382f97c93ef1a5ba7e9489c17ba6dd6876ac0f9ee1718b8fd4a1ceb8c772be
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
