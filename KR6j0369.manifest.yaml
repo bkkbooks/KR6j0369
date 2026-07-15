@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0369/v1
 canonical_location: https://kanripo.org/bkk/KR6j0369/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 修習般若波羅蜜菩薩觀行念誦儀軌
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0369_000.yaml, hash: 'sha256:0f6bb8372202238305879624b41155da86aa32de036a2c4c8ebf126028c549b5'}
-  - {seq: 1, filename: KR6j0369_001.yaml, hash: 'sha256:d4331a183caad146101b20c755230edcba0864064cf7d559a17feed6fd52258a'}
+  - {seq: 1, filename: KR6j0369_001.yaml, hash: 'sha256:ec7c9092d553f6e348e25dc5c213c3a08117bace9bdcfc36a3e7270e1e426448'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0369_000.markers.yaml, hash: 'sha256:d3aaf763fce9a37d5b9aadf65fed6a4f610fd8da11bc99a7e7be23ae478cbaa8'}
-  - {seq: 1, role: markers, filename: assets/KR6j0369_001.markers.yaml, hash: 'sha256:6c50c6ed5c13eec0dbc24e9f75bf0866206343da1724397bd122d85207a7b303'}
+  - {seq: 1, role: markers, filename: assets/KR6j0369_001.markers.yaml, hash: 'sha256:5bb09b339dbe70827faa45ee671b7e3fe82e47ec17ce65a02a4d002540e2838a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,4 +42,7 @@ table_of_contents:
     儀軌一卷'
   type: juan
   level: 1
-hash: sha256:86e55a6eeb593a394900a9821e8b1e2a40b3a4e1b2521df7c2ca14b490d8d861
+hash: sha256:08c3cea2c9446ed06485be0c6a9a9510a7daa9951927787a7bd492644f6d1d54
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
